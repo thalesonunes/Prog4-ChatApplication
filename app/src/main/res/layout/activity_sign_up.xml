@@ -55,7 +55,7 @@
 
     <Button
         android:id="@+id/btnSignUp"
-        android:text="Sign Up"
+        android:text="Cadastrar"
         android:textColor="@color/white"
         android:textSize="16sp"
         android:layout_width="150dp"
