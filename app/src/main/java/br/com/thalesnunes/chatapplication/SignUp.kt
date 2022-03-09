@@ -21,6 +21,9 @@ class SignUp : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sign_up)
 
+        // Retirando a barra superior
+        supportActionBar?.hide()
+
         // Inicializando a autentificação
         mAuth = FirebaseAuth.getInstance()
 
