@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993523545415",
+    "project_id": "chatapplication-ec2d9",
+    "storage_bucket": "chatapplication-ec2d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993523545415:android:29d1f1ab8ba1a282184862",
+        "android_client_info": {
+          "package_name": "br.com.thalesnunes.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993523545415-h3dq7dkipo376tf59s92p5nq8hc0vesk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJEfzrnUsKpRWsQT2NNjEHUvjC_xV2WQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993523545415-h3dq7dkipo376tf59s92p5nq8hc0vesk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
