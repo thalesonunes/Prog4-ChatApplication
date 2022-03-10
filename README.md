@@ -6,7 +6,7 @@ Trabalho prático em grupo desenvolvido para a disciplina de Programação IV du
 
 #  Chat Application
 
-O projeto consiste no desenvolvimento de Chat feito para mobile, utilizando o Android Studio.
+O projeto consiste no desenvolvimento de uma aplicação mobile de Chat, utilizando o Android Studio.
 
 ------
 
