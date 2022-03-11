@@ -25,6 +25,7 @@ O projeto consiste no desenvolvimento de uma aplicação mobile de Chat, utiliza
 ### :rocket: Recursos utilizados:
 
 - Android Studio
+- Linguagem Kotlin
 
 ------
 
