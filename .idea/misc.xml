@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/drawable/btn_background.xml" value="0.2925" />
         <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/drawable/edt_background.xml" value="0.2925" />
+        <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/drawable/message_box_background.xml" value="0.261" />
+        <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/layout/activity_chat.xml" value="0.36666666666666664" />
         <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/layout/activity_log_in.xml" value="0.33" />
         <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/layout/receive.xml" value="0.36666666666666664" />
+        <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/layout/sent.xml" value="0.36666666666666664" />
         <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/layout/user_layout.xml" value="0.36666666666666664" />
         <entry key="..\:/DEV 2022/Prog4-ChatApplication/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
       </map>
