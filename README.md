@@ -10,15 +10,13 @@ O projeto consiste no desenvolvimento de uma aplicação mobile de Chat, utiliza
 
 ------
 
-### :rocket: Link de acesso:
-
-<a href="..." target="_blank">Clique aqui...</a>
-
-------
-
 ### :rocket: Funcionalidades:
 
-- 
+- Cadastro de usuários
+- Acesso de usuários com autentificação via Firebase
+- Seleção de usuário com quem quer conversar
+- Enviar mensagem
+- Sair do aplicativo
 
 ------
 
@@ -26,12 +24,22 @@ O projeto consiste no desenvolvimento de uma aplicação mobile de Chat, utiliza
 
 - Android Studio
 - Linguagem Kotlin
+- Firebase Authentication para gerenciar os cadastros e acessos dos usuários
+- Firebase Realtime Database para armazenar conversas e usuários
 
 ------
 
 ### :rocket: Preview:
 
-<img src="..."> </img>
+##### Clique na imagem abaixo para ver o vídeo de apresentação:
+
+[![](img/snapshots/tela.png)](https://youtu.be/LimYU3HxBqs)
+
+
+
+##### Clique na imagem abaixo para ver o vídeo de apresentação:
+
+![](img/snapshots/001.png)![](img/snapshots/002.png)![](img/snapshots/003.png)![](img/snapshots/004.png)![](img/snapshots/005.png)![](img/snapshots/006.png)
 
 ------
 
