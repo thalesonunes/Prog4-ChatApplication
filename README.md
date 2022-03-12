@@ -37,7 +37,7 @@ O projeto consiste no desenvolvimento de uma aplicação mobile de Chat, utiliza
 
 
 
-##### Clique na imagem abaixo para ver o vídeo de apresentação:
+##### Telas da aplicação:
 
 ![](img/snapshots/001.png)![](img/snapshots/002.png)![](img/snapshots/003.png)![](img/snapshots/004.png)![](img/snapshots/005.png)![](img/snapshots/006.png)
 
