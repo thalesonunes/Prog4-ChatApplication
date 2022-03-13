@@ -1,8 +1,10 @@
-# Programacao IV - Chat Application
+# Programação IV - Chat Application
 Trabalho prático em grupo desenvolvido para a disciplina de Programação IV durante a graduação de Sistemas de Informação pela UEMG (Universidade do Estado de Minas Gerais).
 
 **Colaboradores:**
 [Nayara Proença](https://github.com/NayaraProenca) | [Renato Soares](https://github.com/RenSoares) | [Thales Nunes](https://github.com/thalesonunes)
+
+------
 
 #  Chat Application
 
@@ -13,8 +15,8 @@ O projeto consiste no desenvolvimento de uma aplicação mobile de Chat, utiliza
 ### :rocket: Funcionalidades:
 
 - Cadastro de usuários
-- Acesso de usuários com autentificação via Firebase
-- Seleção de usuário com quem quer conversar
+- Acesso de usuários com autenticação via Firebase
+- Seleção de usuário para troca de mensagens
 - Enviar mensagem
 - Sair do aplicativo
 
@@ -33,7 +35,7 @@ O projeto consiste no desenvolvimento de uma aplicação mobile de Chat, utiliza
 
 ##### Clique na imagem abaixo para ver o vídeo de apresentação:
 
-[![](img/snapshots/tela.png)](https://youtu.be/LimYU3HxBqs)
+[![](img/snapshots/tela.jpg)](https://youtu.be/LimYU3HxBqs)
 
 
 
